@@ -1,0 +1,15 @@
+{
+  "name": "expresshomework",
+  "version": "1.0.0",
+  "description": "Practice creating a basic express app, creating routes, dynamic routes, populating a form, manipulating data obtained from that form, and sending http requests to the server.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "todolater"
+  },
+  "author": "Nobod Y",
+  "license": "MIT"
+}
